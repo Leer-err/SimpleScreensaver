@@ -1,0 +1,12 @@
+/home/podik/Repos/Shader/target/debug/deps/version_compare-92331df60ad1b4a8.rmeta: /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/lib.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/cmp.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/compare.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/manifest.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/part.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/version.rs
+
+/home/podik/Repos/Shader/target/debug/deps/libversion_compare-92331df60ad1b4a8.rlib: /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/lib.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/cmp.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/compare.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/manifest.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/part.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/version.rs
+
+/home/podik/Repos/Shader/target/debug/deps/version_compare-92331df60ad1b4a8.d: /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/lib.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/cmp.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/compare.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/manifest.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/part.rs /home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/version.rs
+
+/home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/lib.rs:
+/home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/cmp.rs:
+/home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/compare.rs:
+/home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/manifest.rs:
+/home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/part.rs:
+/home/podik/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.1/src/version.rs:
